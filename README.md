@@ -6,13 +6,13 @@ Control Keysight AWG 8195A with Python
 - For connection, socket is being used, but you can use VISA. In the future, I will add VISA connection to the code.
 - Make sure to change the IP address/port.
 - Please refer to "Functions tracker.xlsx" to see developed functions.
-- only section "6.20 CARRier Subsystem" and two functions in section "6.21 :TRACe Subsystem" are not being developed.
+- Only "6.20 CARRier Subsystem" section and two functions in section "6.21 :TRACe Subsystem" are not being developed.
 
 ### Caution:
-- This code has not been tested on the hardware yet.
+- This code has not been tested on a hardware yet.
 
 ### Useful & related codes:
-While working on my codes, I've found following codes very useful:
+While working on this project, I found following codes very useful:
 - for M8195A_Connection:
   - [socketscpi](https://github.com/morgan-at-keysight/socketscpi/tree/master)
   - [M8195A_scripts](https://github.com/acidbourbon/M8195A_scripts)
