@@ -8,7 +8,7 @@ Control Keysight AWG 8195A with Python
 - Please refer to "Functions tracker.xlsx" to see developed functions.
 - only section "6.20 CARRier Subsystem" and two functions in section "6.21 :TRACe Subsystem" are not being developed.
 
-### - Caution:
+### Caution:
 - This code has not been tested on the hardware yet.
 
 ### Useful & related codes:
@@ -19,6 +19,5 @@ While working on my codes, I've found following codes very useful:
 - for M8195_Configuration:
   - [SchusterLab](https://github.com/SchusterLab/slab/tree/master)
 
-
-
-* Drop me an email if you have any queries. 
+___
+**Drop me an email if you have any queries.** 
