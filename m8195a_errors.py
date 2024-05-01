@@ -7,7 +7,7 @@ Everything related to errors
 
 class SocketInstrumentError(Exception):
     """
-
+    This is a class for socket instrument error
     """
     pass
 
@@ -20,7 +20,7 @@ class GranularityError(Exception):
         pass
 
     def __str__(self):
-        return f'Must be a multiplication of Granularity'
+        return 'Must be a multiplication of Granularity'
 
 
 if __name__ == '__main__':
